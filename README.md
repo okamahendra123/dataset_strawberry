@@ -1,5 +1,6 @@
 # dataset_strawberry
 Title: Strawberry Dataset (Good and Damaged) 
+<br>
 Author: Oka Mahendra
 Resolution: 640 x 480
 
