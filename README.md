@@ -1,5 +1,4 @@
-# dataset_strawberry
-Title: Strawberry Dataset (Good and Damaged) 
+# Title: Strawberry Dataset (Good and Damaged) 
 <br>
 Author: Oka Mahendra
 <br>
